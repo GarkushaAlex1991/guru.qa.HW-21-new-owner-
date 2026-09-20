@@ -9,7 +9,7 @@ import java.net.URL;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
-public class HwTest implements Config {
+public class  HwTest implements Config {
 
   @Test
   public void localTest() {
